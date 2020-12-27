@@ -11,7 +11,7 @@ from eth_account import Account
 def doRequest():
 
     # Put your API key in here. To get one register on https://etherscan.io/
-    key = ''
+    key = 'XZJIGT7C5I3YPDKAFCTU4N92QQNBNJFKIZ'
 
     # Static part of API
     link = 'https://api.etherscan.io/api?module=account&action=balancemulti&address='
